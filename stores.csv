@@ -1,0 +1,16 @@
+store_id,store_name,city,region
+ST01,RetailMart Jaipur,Jaipur,North
+ST02,RetailMart Delhi,Delhi,North
+ST03,RetailMart Mumbai,Mumbai,West
+ST04,RetailMart Bengaluru,Bengaluru,South
+ST05,RetailMart Kolkata,Kolkata,East
+ST06,RetailMart Chennai,Chennai,South
+ST07,RetailMart Hyderabad,Hyderabad,South
+ST08,RetailMart Pune,Pune,West
+ST09,RetailMart Ahmedabad,Ahmedabad,West
+ST10,RetailMart Lucknow,Lucknow,North
+ST11,RetailMart Chandigarh,Chandigarh,North
+ST12,RetailMart Bhopal,Bhopal,Central
+ST13,RetailMart Kochi,Kochi,South
+ST14,RetailMart Indore,Indore,Central
+ST15,RetailMart Patna,Patna,East
